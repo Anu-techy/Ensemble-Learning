@@ -21,3 +21,9 @@ The ensemble "votes" or averages out to give a more reliable result.
 **Real-World Analogy**
 
 Think of ensemble learning like getting multiple expert opinions before making a decision. One expert might miss something, but a group is more likely to get it right.
+----------------------------------------
+
+Think of Bagging as: same model, different data
+
+Think of Voting as: different models, same data
+
